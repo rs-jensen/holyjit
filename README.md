@@ -1,6 +1,6 @@
 # holyjit
 
-A tiny JIT compiler written in HolyC. It compiles a small language straight into x86-64 machine code at runtime and runs it. No assembler, no external library.
+A tiny JIT compiler written in HolyC. It compiles a small language straight into x86-64 machine code at runtime and runs it.
 
 ## Language
 
